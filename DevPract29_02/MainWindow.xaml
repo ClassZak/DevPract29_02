@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:DevPract29_02"
         mc:Ignorable="d"
         MinWidth="170" MinHeight="120"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="261" Width="520">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="40*"/>
